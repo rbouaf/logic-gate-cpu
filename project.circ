@@ -1759,19 +1759,11 @@
       <a name="font" val="SansSerif bold 53"/>
       <a name="text" val="PC"/>
     </comp>
-    <comp lib="8" loc="(445,130)" name="Text">
-      <a name="font" val="SansSerif bold 64"/>
-      <a name="text" val="Leticia Huang 261068858"/>
-    </comp>
     <comp lib="8" loc="(4475,2455)" name="Text">
       <a name="text" val="INVERTED SO THAT THE REGISTER BLOCK IS IN READ MODE BY DEFAULT"/>
     </comp>
     <comp lib="8" loc="(4500,2425)" name="Text">
       <a name="text" val="MULTIPLEXOR"/>
-    </comp>
-    <comp lib="8" loc="(455,210)" name="Text">
-      <a name="font" val="SansSerif bold 64"/>
-      <a name="text" val="Rayane Bouafia 261119286"/>
     </comp>
     <comp lib="8" loc="(4555,1195)" name="Text">
       <a name="font" val="SansSerif bold 50"/>

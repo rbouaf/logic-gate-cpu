@@ -1,6 +1,8 @@
 Extremely stripped down and simplified pipeline CPU with no cache. 
 
-8 nibble Instruction RAM, 2 nibble Data Ram, 2 nibble Register Block, all data is in nibbles. 
+Load data into the Data RAM, load your instructions into the Instruction RAM and start the clock.
+
+8 nibble Instruction RAM, 2 nibble Data RAM, 2 nibble Register Block, all data is in nibbles. 
 
 Opcode is 1 nibble: `_ _ _ _`
 

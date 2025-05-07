@@ -1,3 +1,5 @@
+![image](https://github.com/rayane-b/comp273-final-project/assets/44729925/9875dc51-aec1-449e-877f-0d91b36f666f)
+
 Extremely stripped down and simplified pipeline CPU with no cache. 
 
 Load data into the Data RAM, load your instructions into the Instruction RAM and start the clock.
@@ -20,6 +22,5 @@ Opcode is 1 nibble: `_ _ _ _`
   - `0` for ram address 0
   - `1` for ram address 1 
 
-![image](https://github.com/rayane-b/comp273-final-project/assets/44729925/9875dc51-aec1-449e-877f-0d91b36f666f)
 
 
